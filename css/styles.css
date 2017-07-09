@@ -1,0 +1,45 @@
+header {
+	background-color: LightBlue;
+	width: 100%;
+	overflow: auto;
+
+}
+
+h1 {
+	text-align: center;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding:0;
+
+}
+
+nav li {
+	list-style-type: none;
+	margin: 5px 15px 0 15px;
+	display: inline-block;
+}
+
+nav li a:hover {
+	color: White;
+	text-decoration: none;
+}
+
+.selected {
+	color: black;
+	text-decoration: none;
+}
+
+nav a {
+	text-decoration: none;
+	color: SteelBlue;
+}
+
+.space {
+	margin-left: 20px;
+}
+
+nav {
+	text-align: center;
+}
